@@ -1,8 +1,8 @@
 ## Boas-praticas-com-DynamoDB
 
 ## Serviço utilizado
-Amazon DynamoDB
-Amazon CLI para execução em linha de comando
+- Amazon DynamoDB
+- Amazon CLI para execução em linha de comando
 ## Comandos para execução do experimento:
 - Criar uma tabela
 aws dynamodb create-table \
